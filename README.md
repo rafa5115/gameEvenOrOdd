@@ -5,6 +5,6 @@
 
 <div>
   <h2>Comandos para inicializar</h2>
-  <p>* Instalar Python <br> pip3 install pywin32</p>
+  <p>1° Instalar Python <br>2° pip3 install pywin32</p>
 </div>
 
